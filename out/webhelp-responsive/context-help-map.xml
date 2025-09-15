@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="alpine_skiing_stem"
+               path="Alpine_skiing/stem_topics/alpine_skiing_stem.html"/>
+   <appContext helpID="ski_slope_concept"
+               path="Alpine_skiing/topics/ski_slope_concept.html"/>
+   <appContext helpID="ski_slope_glossary"
+               path="Alpine_skiing/topics/ski_slope_concept.html#ski_slope_glossary"/>
+   <appContext helpID="how_to_start_skiing"
+               path="reusables/reusable_whole_topics/how_to_start_skiing.html"/>
+   <appContext helpID="how_to_improve_your_curving"
+               path="Alpine_skiing/topics/how_to_improve_your_curving.html"/>
+   <appContext helpID="differences_between_slalom_and_giant_slalom"
+               path="Alpine_skiing/topics/differences_between_slalom_and_giant_slalom.html"/>
+   <appContext helpID="how_to_prepare_for_the_world_cup_season"
+               path="Alpine_skiing/topics/how_to_prepare_for_the_world_cup_season.html"/>
+   <appContext helpID="cross_country_skiing_stem"
+               path="Cross_country_skiing/stem_topics/cross_country_skiing_stem.html"/>
+   <appContext helpID="how_to_start_skiing"
+               path="reusables/reusable_whole_topics/how_to_start_skiing.html"/>
+   <appContext helpID="ski_track"
+               path="Cross_country_skiing/topics/ski_track_concept.html"/>
+   <appContext helpID="how_to_improve_your_slide_classic"
+               path="Cross_country_skiing/topics/how_to_improve_your_slide_classic.html"/>
+   <appContext helpID="how_to_improve_your_slide_skate"
+               path="Cross_country_skiing/topics/how_to_improve_your_slide_skate.html"/>
+   <appContext helpID="ski_jumping_stem"
+               path="Ski_jumping/stem_topics/ski_jumping_stem.html"/>
+   <appContext helpID="how_to_start_skiing"
+               path="reusables/reusable_whole_topics/how_to_start_skiing.html"/>
+   <appContext helpID="ski_jump_concept" path="Ski_jumping/ski_jump_concept.html"/>
+   <appContext helpID="Chunk1606275876" path="Chunk1606275876.html"/>
+   <appContext helpID="funicular_glossary"
+               path="Chunk1606275876.html#funicular_glossary"/>
+</map>

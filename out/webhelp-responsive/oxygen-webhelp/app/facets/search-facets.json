@@ -1,0 +1,62 @@
+
+ { "facets" : 
+  [ 
+   { "key" : "skiPlatformKey",
+    "navtitle" : "",
+    "categories" : 
+    [ 
+     { "key" : "Alpine_skiing",
+      "navtitle" : "",
+      "categories" : 
+      [  ] },
+     
+     { "key" : "Cross_country_skiing",
+      "navtitle" : "",
+      "categories" : 
+      [ 
+       { "key" : "Classic",
+        "navtitle" : "",
+        "categories" : 
+        [  ] },
+       
+       { "key" : "Skate",
+        "navtitle" : "",
+        "categories" : 
+        [  ] } ] },
+     
+     { "key" : "Ski_jumping",
+      "navtitle" : "",
+      "categories" : 
+      [  ] } ] },
+   
+   { "key" : "skiAudienceKey",
+    "navtitle" : "",
+    "categories" : 
+    [ 
+     { "key" : "Hobby",
+      "navtitle" : "",
+      "categories" : 
+      [ 
+       { "key" : "Beginner",
+        "navtitle" : "",
+        "categories" : 
+        [  ] },
+       
+       { "key" : "Experienced",
+        "navtitle" : "",
+        "categories" : 
+        [  ] } ] },
+     
+     { "key" : "Athlete",
+      "navtitle" : "",
+      "categories" : 
+      [ 
+       { "key" : "Junior",
+        "navtitle" : "",
+        "categories" : 
+        [  ] },
+       
+       { "key" : "Senior",
+        "navtitle" : "",
+        "categories" : 
+        [  ] } ] } ] } ] }
